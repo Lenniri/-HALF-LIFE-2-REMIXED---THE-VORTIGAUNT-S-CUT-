@@ -1,2 +1,5 @@
 # -HALF-LIFE-2-REMIXED---THE-VORTIGAUNT-S-CUT-
 The following document details an ambitious, officially-licensed but ultimately unfinished expansion pack for Garry's Mod, developed in parallel by a small "skunkworks" team within VET. It was designed to utilize the new assets and mechanics of the VET Remake to create a non-canon, sprawling sandbox experience.
+The core concept was a massive, standalone GMOD addon that would function as a playable museum of everything cut from the Half-Life 2 Remake. It was not a single narrative but a series of interconnected "concept modules" or "echoes," accessible from a central hub. The in-universe explanation was that a Vortigaunt, having peered into the threads of possibility, had assembled these "lost moments" into a coherent, if unstable, tapestry for the Free Man to experience.
+
+The hub was the "Chamber of Possibility," a vast, non-Euclidean space within the Vortessence. Floating islands of reality depicted familiar locations from City 17, the Coast, and beyond, but distorted and merged with unused assets. At the center, a lone Vortigaunt (voiced by the original actor) would act as the guide, offering cryptic commentary.
